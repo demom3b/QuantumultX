@@ -1,4 +1,3 @@
-[Forwarded from 🆂🅄🆁🄶🅴]
 /*
 https://push.tapbots.com/tweetbot/5/verify_subscription url script-response-body tweetbot.js
 
